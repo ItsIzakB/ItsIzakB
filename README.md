@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm KAZI PRIOM</h1>
 <h3 align="center">A passionate developer studing Computer Science in the University of Oklahoma</h3>
 
-- 🔭 I’m currently working on [SodukoProject](https://github.com/ItsIzakB/SodukoProject)
+- I’m currently working on [SodukoProject](https://github.com/ItsIzakB/SodukoProject)
 
 - I’m currently learning **python, data structures**
 
