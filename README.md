@@ -6,7 +6,7 @@
 - I’m currently working on [SodukoProject](https://github.com/ItsIzakB/SodukoProject)
 
 - I’m currently learning **python, c++, data structures**
-- I'm currently solving LeetCode Interview Problems
+- I'm currently solving [LeetCode Interview Problems](https://leetcode.com/kazipriom/)
 
 - How to reach me **kazipriom@gmail.com**
 
