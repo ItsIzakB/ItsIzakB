@@ -5,7 +5,7 @@
 
 - I’m currently working on a Website(private)
 
-- I’m currently learning **python, c++, data structures**
+- I’m currently learning **python, c++, data structures, front-end development**
 - I'm currently solving [LeetCode Interview Problems](https://leetcode.com/kazipriom/)
 
 - How to reach me **kazipriom@gmail.com**
