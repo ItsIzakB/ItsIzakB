@@ -3,10 +3,9 @@
 <h1 align="center">Hi, I'm KAZI PRIOM</h1>
 <h3 align="center">A passionate developer studying Computer Science at the University of Oklahoma</h3>
 
-- I’m currently working on a Website(private)
+- I’m currently working on an Ecommerce Website(private)
 
-- I’m currently learning **python, c++, data structures, front-end development**
-- I'm currently solving [LeetCode Interview Problems](https://leetcode.com/kazipriom/)
+- I've develeped a front-end website for ThunderCab
 
 - How to reach me **kazipriom@gmail.com**
 
